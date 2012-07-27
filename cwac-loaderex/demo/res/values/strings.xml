@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQLiteCursorLoader Demo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_title">Add Constant</string>
+    <string name="delete_title">Delete Constant: Are You Sure?</string>
+    <string name="acl">SQLiteCursorLoader ACL Demo</string>
+    <string name="prefs">SharedPreferencesLoader Demo</string>
+</resources>
